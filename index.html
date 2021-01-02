@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="home.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Leckerli+One&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="atas">
+        <nav>
+            <div class="logo">
+                <h4>Sulviana Dale</h4>
+            </div>
+            <ul>
+                 <li><a href="#top">Home</a></li>
+                <li><a href="#pembelajaran">Pembelajaran</a></li>
+                <li><a href="#top">Modul</a></li>
+                <li><a href="#info">About Me</a></li>
+            </ul>
+            
+    
+            <div class="menu-toggle">
+                <input type="checkbox" />
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>  
+        </nav>
+    </div>
+   
+
+    <div class="opening1">
+        <img src="opening.png" alt="coba" width=100% height=100%>
+    </div>
+
+    <div class="myinfo" id="info">
+        <div class="sulviana">
+            <img src="mama1.jpg" alt="coba" width=300 height=400>
+            <h1>Hello, This is Sulviana Dale M,Pd</h1>
+            <br>
+            <p>Welcome! I pray that this point of contact with me will begin<br> your exciting adventure with mathematics </p>
+        </div>
+    </div>
+
+    <div class="pembelajaran" id="pembelajaran">
+        <p><strong>Materi Belajar</strong></p>
+        <div class="row">
+	
+            <div class="column">
+                <a href="https://www.youtube.com/watch?v=o_Wq2IiWAso">
+                        <div class="card" id="fon">
+                            <img src="img/IM1.png" style="width:100%" alt="fon">
+                            <h3>Induksi Matematika Part 1</h3>
+                        </div>
+                </a>
+            </div>
+            
+            <div class="column">
+                <a href="https://www.youtube.com/watch?v=LVOvzyUW39c">
+                    <div class="card" id="foe">
+                        <img src="img/IM2.png" style="width:100%" alt="foe">
+                        <h3>Induksi Matematika Part 2</h3>
+                    </div>
+                </a>
+            </div>
+      
+            <div class="column">
+                <a href="https://www.youtube.com/watch?v=U0czu4TyOrU">
+                    <div class="card" id="com">
+                        <img src="img/PL1.png" style="width:100%" alt="com">
+                        <h3>Pertidaksamaan Linear 1</h3>
+                    </div>
+                </a>
+            </div>
+          
+            <div class="column">
+                <a href="https://www.youtube.com/watch?v=Z-l7l2doFyM">
+                    <div class="card" id="fop">
+                            <img src="img/PL2.png" style="width:100%" alt="fop">
+                            <h3>Pertidaksamaan Linear 2</h3>
+                    
+                    </div>
+                </a>
+            </div>
+        </div>
+        
+        <div class="row">
+            <div class="column">
+                <a href="https://www.youtube.com/watch?v=85V3FMh5ZkE">
+                    <div class="card" id="fom">
+                            <img src="img/M1.png" style="width:100%" alt="fom">
+                            <h3>Martiks Part 1</h3>
+                    
+                    </div>
+                </a>
+            </div>
+    
+            <div class="column">
+                <a href="https://www.youtube.com/watch?v=Z50pITGsRzY">
+                    <div class="card" id="fod">
+                        <img src="img/M2.png" style="width:100%" alt="fod">
+                        <h3>Martiks Part 2</h3>
+                    </div>
+                </a>
+            </div>
+      
+            <div class="column">
+                <a href="https://www.youtube.com/watch?v=XKHgvvXFbzo">
+                    <div class="card" id="bs">
+                        <img src="img/TG1.png" style="width:100%" alt="bs">
+                        <h3>Transformasi Geometri Part 1</h3>
+                    </div>
+                </a>
+            </div>
+          
+            <div class="column">
+                <a href="https://www.youtube.com/watch?v=MzxiqbGO36o">
+                    <div class="card" id="sistech">
+                        <img src="img/TG2.png" style="width:100%" alt="sistech">
+                        <h3>Transformasi Geometri Part 2</h3>
+                    </div>
+                </a>
+            </div>
+        </div>
+        
+        <div class="row">
+            <div class="column">
+                <a href="https://www.youtube.com/watch?v=dLl_9saIOis">
+                    <div class="card" id="fos">
+                        <img src="img/TG3.png" style="width:100%" alt="fos">
+                        <h3>Transformasi Geometri Part 3</h3>
+                    </div>
+                </a>
+            </div>
+    
+            <div class="column">
+                <a href="https://www.youtube.com/watch?v=Y8zYQp9v1ag">
+                    <div class="card" id="foa">
+                        <img src="img/TG4.png" style="width:100%" alt="foa">
+                        <h3>Transformasi Geometri Part 4</h3>
+                    </div>
+                </a>
+            </div>
+      
+            <div class="column">
+                <a href="https://www.youtube.com/watch?v=A4CKv_SyBoU">
+                    <div class="card" id="fol">
+                        <img src="img/TG5.png" style="width:100%" alt="fol">
+                        <h3>Transformasi Geometri Part 5</h3>
+                    </div>
+                </a>
+            </div>
+          
+            <div class="column">
+                <a href="https://www.youtube.com/channel/UCbXLQqzVj49liL9yCtzlzJw/featured">
+                    <div class="card" id="soh">
+                        <img src="img/Y1.png" style="width:100%" alt="soh">
+                        <h3>Youtube Chanel Link</h3>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+    
+    <script src="home.js" ></script>
+</body>
+</html>
